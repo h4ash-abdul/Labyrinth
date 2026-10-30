@@ -1,5 +1,10 @@
 # Labyrinth — Invoice Financing with Hybrid Audit
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-labyrinth--eight.vercel.app-C9A227?style=for-the-badge)](https://labyrinth-eight.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fh4ash-abdul%2FLabyrinth)
+
+> **Live Demo**: [https://labyrinth-eight.vercel.app/](https://labyrinth-eight.vercel.app/)
+
 Labyrinth is an invoice-financing prototype for Synesis 26, Problem 2. One financing request moves through
 extraction, document matching, duplicate and cross-lender checks, a network screen, buyer/receivables risk and a
 decision, and every state change is written to a hash-chained, Merkle-anchored audit log. Uncertain cases go to a person.
